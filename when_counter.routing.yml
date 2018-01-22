@@ -1,7 +1,0 @@
-when.content:
-  path: '/when'
-  defaults:
-    _controller: '\Drupal\when_counter\Controller\WhenController::content'
-    _title: 'When Counter'
-  requirements:
-    _permission: 'access content'
